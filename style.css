@@ -1,0 +1,44 @@
+.heading{
+    font-size: 29px;
+    width:100%;
+    margin: 0px; 
+    background-color: orange;
+ }
+.a{
+    background-color: wheat;
+}
+
+#abear{
+    font-size:20px;
+    width:200px;
+    height:30px;
+    border-radius:50px;
+}
+
+#abook{
+    font-size:20px;
+    width:200px;
+    height:30px;
+    border-radius:50px;
+}
+
+#aplants{
+    font-size:20px;
+    width:200px;
+    height:30px;
+    border-radius:50px;
+}
+
+#atoilet{
+    font-size:20px;
+    width:200px;
+    height:30px;
+    border-radius:50px;
+}
+
+#atv{
+    font-size:20px;
+    width:200px;
+    height:30px;
+    border-radius:50px;
+}
